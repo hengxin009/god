@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
