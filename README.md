@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
