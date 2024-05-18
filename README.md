@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update CI.md with CI links (#8786)
