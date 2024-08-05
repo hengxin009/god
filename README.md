@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add YOLOv8 LibTorch C++ inference example (#7090)
