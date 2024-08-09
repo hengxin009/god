@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
