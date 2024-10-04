@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
